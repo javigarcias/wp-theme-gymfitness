@@ -80,3 +80,7 @@ img{
     width: 95%;
     margin: 0 auto;
 }
+.logo{
+    max-width: 20%;
+    height: auto;
+}
