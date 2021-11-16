@@ -21,7 +21,7 @@
 
     /** Colores **/
     --colorPrimario : #e5bd7b;
-    --grisOscuro : #2f3a3d;
+    --grisOscuro : #142127;
     --grisClaro : #d4d5db;
     --blanco : #ffffff;
     --negro : #000000;
@@ -80,7 +80,8 @@ img{
     width: 95%;
     margin: 0 auto;
 }
-.logo{
-    max-width: 20%;
-    height: auto;
+
+/**  Header  **/
+.site-header{
+   background-color: var(--grisOscuro);
 }

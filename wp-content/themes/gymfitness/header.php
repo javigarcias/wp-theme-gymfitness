@@ -13,7 +13,7 @@
     <div class="contenedor">
         <div class="barra-navegacion">
             <div class="logo">
-                <img src="<?php echo get_template_directory_uri() ?>/img/Logo-crossfit.webp" alt="logo crossfit">
+                <img src="<?php echo get_template_directory_uri() ?>/img/logo-crossfit-150px.jpg" alt="logo crossfit">
             </div>
             <?php
                 $args = array(
